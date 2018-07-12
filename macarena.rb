@@ -28,3 +28,4 @@ puts "Step 7: bring your right hand up and around to the back of your head."
 end
 # Step 8: FIXME
 puts "Step 8: Bring your left hand up and around to the back of your head"
+end
