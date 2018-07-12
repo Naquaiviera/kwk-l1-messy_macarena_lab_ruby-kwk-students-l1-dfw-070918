@@ -13,7 +13,7 @@ puts "Step 2: Left arm out in front of you, plam facing down."
 end
 # Step 3: FIXME
 puts "Step 3: Turn your right palm up."
-
+end
 # Step 4: FIXME
 puts "Step 4: Turn your left palm up."
 
